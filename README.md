@@ -2,7 +2,7 @@
 
 ## Description
 
-These are a set of tools that were developed during a <a href="https://www.udemy.com/share/104u8E3@OPiEMAQIQBIKElVyMLgnvg1DUGVOhnjGLHP-yyY3iAxOfyf0WooAhYesXARScrTl/">Python For Business Course</a>. 
+This is a set of tools that were developed during a <a href="https://www.udemy.com/share/104u8E3@OPiEMAQIQBIKElVyMLgnvg1DUGVOhnjGLHP-yyY3iAxOfyf0WooAhYesXARScrTl/">Python For Business Course</a>. 
 <p> </p>
 
 - importer folder contains Python files used to read in data, analyze it, and then write it to a file. It can be used to read and write both CSV and Excel files.
