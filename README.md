@@ -16,3 +16,6 @@ During the course you are given a specific set of raw data files that you must p
 (Special thanks to <a href="https://www.linkedin.com/in/todd-hanford/">Todd Hanford</a> for developing the course, and for his guidance and mentorship throughout.)
 
 
+### Personal Progress ###
+* What I learned: All the basics of Python and how to implement Python in practical business applications. How to use the debugger to steo through issues step-by-step.
+* What I wish I had done differently: Spent more time on logging and tests.
