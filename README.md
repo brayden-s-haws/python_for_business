@@ -1,5 +1,7 @@
 # python_for_business 🐍
 
+### Current status: complete ###
+
 ## Description
 
 This is a set of tools that were developed during a <a href="https://www.udemy.com/share/104u8E3@OPiEMAQIQBIKElVyMLgnvg1DUGVOhnjGLHP-yyY3iAxOfyf0WooAhYesXARScrTl/">Python For Business Course</a>. 
