@@ -1,6 +1,6 @@
 # python_for_business 🐍
 
-#### Current status: complete ####
+#### Current status: Complete
 
 ## Description
 
@@ -17,6 +17,7 @@ During the course you are given a specific set of raw data files that you must p
 
 ___
 
-### Personal Progress ###
+### Personal Progress
 * What I learned: All the basics of Python and how to implement Python in practical business applications. How to use the debugger to steo through issues step-by-step.
 * What I wish I had done differently: Spent more time on logging and tests.
+* What I want to learn next: applications for Python in a software context. The focus of this course is much more for data engineering and business automation. It was a great foundation for learning Python but I think there are gaps in my knowledge for building backends.
